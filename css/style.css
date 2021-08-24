@@ -3,7 +3,7 @@ body{
 }
 
 .navbar{
-   background-color: #298a08;
+   background-color: #8df86a;
 }
 
 .logo1{
@@ -18,4 +18,19 @@ body{
 
 .margin{   
     padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #5882fa;
+    color: #2a4591;
+}
+
+.servicos{
+    background-color: #94d4bc;  
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
